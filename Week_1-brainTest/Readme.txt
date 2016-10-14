@@ -1,0 +1,1 @@
+De Use case en domain model zijn in draw.io gemaakt.
