@@ -1,0 +1,1 @@
+De Class Diagram is in draw.io gemaakt.
